@@ -17,6 +17,7 @@ Server side code is written in `server.js` file and the `website/app.js` file ha
 ## Development Strategy
 
 * Start by setting up the project environment using Node Package Manager
+  * Item
 * Add a GET route that returns the projectData object in your server code
 * Acquire API credentials from OpenWeatherMap website
 * After successful retrieval of the weather data, we chain another Promise that makes a POST request to add the API data, as well as data entered by the user, to our app.
