@@ -12,7 +12,7 @@ Server side code is written in `server.js` file and the `website/app.js` file ha
 
 <br>
 
-![](images/architecture.JPG)
+![](images/architecture.jpg)
 
 ## Development Strategy
 
